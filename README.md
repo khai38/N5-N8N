@@ -1,1 +1,2 @@
-# N5-N8N
+# n8n-chat-widget-custom
+n8n-chat-widget-custom
